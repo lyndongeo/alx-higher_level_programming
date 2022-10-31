@@ -5,3 +5,6 @@ Shell Script that runs a Python Script
 [main 9986820] Task 2: Python script that prints...
  2 files changed, 5 insertions(+)
  create mode 100755 0x00-python-hello_world/2-print.py
+[main 6089305] Task 3: Print Integer Stored in a Variable
+ 2 files changed, 6 insertions(+)
+ create mode 100755 0x00-python-hello_world/3-print_number.py
