@@ -10,3 +10,6 @@ Shell Script that runs a Python Script
  create mode 100755 0x00-python-hello_world/3-print_number.py
 [main 8a91bb0] Task 3: Print Integer Stored in a Variable
  2 files changed, 4 insertions(+), 1 deletion(-)
+[main 9cd6510] Task 4
+ 2 files changed, 5 insertions(+)
+ create mode 100755 0x00-python-hello_world/4-print_float.py
