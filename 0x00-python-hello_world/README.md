@@ -16,3 +16,6 @@ Shell Script that runs a Python Script
 [main 776e909] Task 3
  2 files changed, 7 insertions(+)
  create mode 100755 0x00-python-hello_world/5-print_string.py
+[main 7b0f7b5] Task 6: Source Code that prints...
+ 2 files changed, 8 insertions(+)
+ create mode 100755 0x00-python-hello_world/6-concat.py
