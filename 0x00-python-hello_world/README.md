@@ -13,3 +13,6 @@ Shell Script that runs a Python Script
 [main 9cd6510] Task 4
  2 files changed, 5 insertions(+)
  create mode 100755 0x00-python-hello_world/4-print_float.py
+[main 776e909] Task 3
+ 2 files changed, 7 insertions(+)
+ create mode 100755 0x00-python-hello_world/5-print_string.py
